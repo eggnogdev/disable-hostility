@@ -2,6 +2,10 @@
 
 minecraft mod to disable hostility of mobs towards players on a per player basis
 
+## download
+
+download via [Modrinth](https://modrinth.com/mod/disable-hostility) or check the [releases](https://github.com/Daniel-Egorov/disable-hostility/releases)
+
 ## How to use in game
 
 (only players with permission level 4 can run the command)
